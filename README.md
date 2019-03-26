@@ -1,4 +1,4 @@
 # Web VR
-[Live demo](https://liz-peng.github.io/WebVR/)
+[Live demo](https://liz-peng.github.io/WebVR/) Wait 8 seconds to see the magic happen! (The waiting time is for user to set up Google Cardboard)
 
 Using: A-Frame, HTML5, JavaScript and CSS3
